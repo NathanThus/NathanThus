@@ -1,11 +1,15 @@
+This is still a work in progress.
+
 ### Hi there 👋
 
+I'm a game design and technology student, who has managed to gain some experience in embedded systems as well!
+
+I've got a website that I tend to keep updated, so if you want to take a look at my projects, either take a look at my repositories or head on over to the website: [a link](https:example.com)
 <!--
 **NathanThus/NathanThus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
