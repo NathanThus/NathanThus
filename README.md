@@ -1,5 +1,6 @@
 # Hello there, and welcome to my github page!
-[My Website](https://nathanthus.games)
+### [My Website](https://nathanthus.games)
+
 I'm a game developer, currently studying at Fontys Hogescholen in Eindhoven. While I initially started off doing embedded systems as my route of choice, I later decided to delve into Game Development.
 ## Skills
 ### Skillset
