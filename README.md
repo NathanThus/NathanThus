@@ -14,8 +14,8 @@ Embedded Systems
 
 Unity
 
-[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanThus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+### Programming Languages
+C, C++ & C#
 ### Spoken languages
 
 English (Native)
