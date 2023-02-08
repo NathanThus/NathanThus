@@ -1,18 +1,20 @@
 # Hello there, and welcome to my github page!
+
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=NathanThus&count_private=true&show_icons=true&theme=dark)
 ### [My Website](https://nathanthus.games)
 
-I'm a game developer, currently studying at Fontys Hogescholen in Eindhoven. While I initially started off doing embedded systems as my route of choice, I later decided to delve into Game Development.
+Embedded Systems & Game Developer
+
 ## Skills
-### Skillset
+Skillset
 Embedded Systems
   - Arduino, ESP & teensy platforms
   - Cortex ARM processors
 
 Unity
 
-### Programming Languages
-- C, C# & C++
-- Java
+[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanThus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spoken languages
 
