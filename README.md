@@ -1,4 +1,4 @@
-# Hello there, and welcome to my github page!
+# Hello there, welcome to my github page!
 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=NathanThus&count_private=true&show_icons=true&theme=dark)
