@@ -24,7 +24,7 @@ Dutch (Native)
 
 German (Conversational)
 
-French (I could theoretically survive in france)
+French (I could theoretically survive in France)
 
 
 <!--
