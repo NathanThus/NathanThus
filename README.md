@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Embedded Systems & Game Developer <br> 🔭 I’m currently working on FindIt, an Embedded Systems storage solution!<br>🌱 I’m currently learning Unity, C# & C++ <br> 
+🎮 Embedded Systems & Game Developer <br> 🔭 I’m currently working on ![FindIt](https://github.com/T3-FindIt/FindIt), an Embedded Systems storage solution!<br>🌱 I’m currently learning Unity, C# & C++ <br> 
 
 
 ## 🌐 Socials:
