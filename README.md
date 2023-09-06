@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Embedded Systems & Game Developer <br> 🔭 I just finished working on [FindIt](https://github.com/T3-FindIt/FindIt), and currently looking at new projects.<br>🌱 I’m currently learning Unity, C# & C++ <br> 
+🎮 Embedded Systems & Game Developer <br> 🔭 I just started working on a VR game for InMotion VR<br>🌱 I’m currently learning about VR development, and improving my Unity and C# skills. <br> 
 
 
 ## 🌐 Socials:
