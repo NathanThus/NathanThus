@@ -24,7 +24,7 @@
 🇬🇧 English - Native <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=onestar&no-frame=false&no-bg=false&margin-w=4&column=8)
 
 ## :exclamation: Fun Fact
 There are several github specific emoji, which do not exist elsewhere! An example is: :fishsticks:
