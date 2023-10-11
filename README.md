@@ -20,10 +20,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 🌐 Spoken Languages
-:NL: Dutch - Native <br>
-:EN: English - Native <br>
-:FR: French - Basic <br>
-:GR: German - Basic <br>
+Dutch - Native <br>
+English - Native <br>
+French - Basic <br>
+German - Basic <br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=onestar&no-frame=false&no-bg=false&margin-w=4&column=8)
