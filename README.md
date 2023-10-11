@@ -24,7 +24,7 @@
 🇬🇧 English - Native
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NathanThus&icon=1&color=4)](https://visitcount.itsvg.in)
