@@ -29,7 +29,7 @@ German - Basic <br>
 ![](https://github-profile-trophy.vercel.app/?username=NathanThus&theme=onestar&no-frame=false&no-bg=false&margin-w=4&column=8)
 
 ## :exclamation: Fun Fact
-There are several github specific emoji, which do not exist elsewhere! An example is: :fishsticks:
+There are several github specific emoji, which do not exist elsewhere! For example: :fishsticks:, :shipit: and :godmode:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NathanThus&icon=1&color=4)](https://visitcount.itsvg.in)
