@@ -1,6 +1,7 @@
 # 💫 About Me:
-🎮 Embedded Systems & Game Developer <br> 👨‍🎓 Student at Fontys University Of Applied Science <br> 🔭 I just started working on a VR game for InMotion VR<br>🌱 I’m currently learning about VR development, and improving my Unity and C# skills. <br> 
-
+🎮 Embedded Systems & Game Developer <br> 👨‍🎓 Student at Fontys University Of Applied Science 
+<!--<br> 🔭 I just started working on a VR game for InMotion VR<br>🌱 I’m currently learning about VR development, and improving my Unity and C# skills. <br> 
+-->
 <!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-thus-20b11526b/) <br>
