@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Embedded Systems & Game Developer <br> 👨‍🎓 Student at Fontys University Of Applied Science <br> 💻 Working on ![Crusadeon](https://github.com/Rogue-Ape-Studios/Crusader) for ![Rogue Ape Studio](https://github.com/Rogue-Ape-Studios)
+🎮 Embedded Systems & Game Developer <br> 👨‍🎓 Student at Fontys University Of Applied Science <br> 💻 Working on ![Crusadeon](https://github.com/Rogue-Ape-Studios/Crusader) for ![Rogue Ape Studio](https://github.com/Rogue-Ape-Studios), as well as ![Modular Weapons](https://github.com/NathanThus/Modular-Weapons) for ![Dog Food Studios](https://dogfoodstudios.nl/)
 <!--<br> 🔭 I just started working on a VR game for InMotion VR<br>🌱 I’m currently learning about VR development, and improving my Unity and C# skills. <br> 
 -->
 <!--
