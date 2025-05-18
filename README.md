@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎮 Game Development & Embedded Systems  <br> 👨‍🎓 Student at Fontys University Of Applied Science
--->
+
 <!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-thus-20b11526b/) <br>
