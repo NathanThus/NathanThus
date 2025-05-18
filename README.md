@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎮 Game Development & Embedded Systems  <br> 👨‍🎓 Student at Fontys University Of Applied Science <br> 💻 Working on my Minor Embedded Systems & Signals, as well as the odd project.
-<!--<br> 🔭 I just started working on a VR game for InMotion VR<br>🌱 I’m currently learning about VR development, and improving my Unity and C# skills. <br> 
+🎮 Game Development & Embedded Systems  <br> 👨‍🎓 Student at Fontys University Of Applied Science
 -->
 <!--
 ## 🌐 Socials:
