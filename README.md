@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Game Development & Embedded Systems  <br> 👨‍🎓 Student at Fontys University Of Applied Science
+🎮 Game Development & Embedded Systems  <br> 
 
 <!--
 ## 🌐 Socials:
